@@ -14,4 +14,4 @@ SPECIFICATIONS
 * Framework: Hibernate
 * UI: Bootstrap 4
 * Database: MySql
-* Tools: Eclipse
+* Tool: Eclipse
